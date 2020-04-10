@@ -1,0 +1,9 @@
+name: SybChunkRegen
+main: me.sybsuper.SybChunkRegen.Main
+version: 1.0.0
+author: Sybsuper
+commands:
+  regenerate:
+    aliases: [regen]
+    permission: sybchunkregen.regenerate
+    usage: /regenerate
